@@ -1,6 +1,8 @@
 GEEETECH Black Acrylic I3 Pro B
 ===============================
 
+<div style="text-align:center"><img src="docs/printer.jpg" /></div>
+
 # Setup
 Driver
 
