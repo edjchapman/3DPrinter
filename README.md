@@ -3,7 +3,7 @@ GEEETECH Black Acrylic I3 Pro B
 
 <div style="text-align:center"><img src="docs/printer.jpg" /></div>
 
-# Setup
+# Initial Setup
 Driver
 
 ```
@@ -17,6 +17,12 @@ Software/FTDIUSBSerialDriver_v2_4_2.dmg
 # Basic 3D printing software that works with the printer out of the box
 Software/Repetier-Host-Mac_1_1_0.dmg
 ```
+
+# Next Steps
+
+[Marlin](https://marlinfw.org/docs/basics/introduction.html): open source firmware for 3D printers.
+Possibly a better maintained alternative to the above setup.
+
 
 # Troubleshooting
 
