@@ -18,6 +18,13 @@ Software/FTDIUSBSerialDriver_v2_4_2.dmg
 Software/Repetier-Host-Mac_1_1_0.dmg
 ```
 
+# Printing
+Download a design, usually in .gcode format.
+
+A large repository is at [Thingiverse](https://www.thingiverse.com/)
+
+Load the design into the printing application.
+
 # Next Steps
 
 [Marlin](https://marlinfw.org/docs/basics/introduction.html): open source firmware for 3D printers.
